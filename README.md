@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm Gemma, a passionate developer with a love for all thin
 - Anything where I can learn and grow alongside like-minded developers! 🌱
 
 ## 📫 How to reach me...
-- Email: gemgoddard@yahoo.com 📧
+- Email: gemma.goddard@tamu.edu 📧
 - LinkedIn: [Gemma Goddard](https://www.linkedin.com/in/gemma-goddard/) 🌐
 
 ## ⚡ Fun fact: 
