@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Gemma Goddard
 
+Graduated from Texas A&M with a B.S. in Computer Science - December 2024
+
 Welcome to my GitHub! I'm Gemma, a passionate developer with a love for all things tech. Whether it's coding, collaborating, or learning new things, I'm all in!
 
 ## 👀 I’m interested in...
